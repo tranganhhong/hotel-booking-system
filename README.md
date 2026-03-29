@@ -64,6 +64,9 @@ Current hotel booking processes are often manual, leading to delays, errors, and
 ### DFD Level 1
 ![DFD1](diagrams/dfd-level-1.png)
 
+### Use Case Diagram
+![UseCase](diagrams/use-case-diagram.png)
+
 ---
 
 ## 9. Tools
